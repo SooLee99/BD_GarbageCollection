@@ -91,3 +91,6 @@ public class NoMemoryLeakExample {
 
             // 불필요한 객체 참조를 제거하여 GC가 수집할 수 있도록 함.
 ``` 
+---
+< Reference >
+- 
